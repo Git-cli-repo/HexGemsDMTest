@@ -1,0 +1,488 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hex Gems Base — Multiplayer Hub</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="app">
+      <header class="hero">
+        <div class="hero__content">
+          <p class="hero__tag">Hex Gems Base</p>
+          <h1>Multiplayer Control Center</h1>
+          <p class="hero__subtitle">
+            Matchmake, host lobbies, and master the HexRank ladder with real-time stats and profile insights.
+          </p>
+          <div class="hero__actions">
+            <button class="primary">Start Matchmaking</button>
+            <button class="ghost">Create Lobby</button>
+          </div>
+        </div>
+        <div class="hero__card">
+          <div class="hero__badge">Live Status</div>
+          <h3>Queue Snapshot</h3>
+          <div class="stat-grid">
+            <div>
+              <p class="stat-label">Players Online</p>
+              <p class="stat-value">1,248</p>
+            </div>
+            <div>
+              <p class="stat-label">Active Matches</p>
+              <p class="stat-value">92</p>
+            </div>
+            <div>
+              <p class="stat-label">Avg. Queue</p>
+              <p class="stat-value">00:42</p>
+            </div>
+            <div>
+              <p class="stat-label">Regions</p>
+              <p class="stat-value">NA · EU · APAC</p>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      <nav class="nav">
+        <button class="nav__link is-active" data-tab="matchmaking">Matchmaking</button>
+        <button class="nav__link" data-tab="lobbies">Lobbies</button>
+        <button class="nav__link" data-tab="account">Account</button>
+        <button class="nav__link" data-tab="profile">Profile</button>
+        <button class="nav__link" data-tab="hexrank">HexRank</button>
+        <button class="nav__link" data-tab="roadmap">Roadmap</button>
+      </nav>
+
+      <main>
+        <section class="panel is-active" id="matchmaking">
+          <div class="panel__header">
+            <div>
+              <h2>Smart Matchmaking</h2>
+              <p>Queue by rank, region, and team size with real-time readiness indicators.</p>
+            </div>
+            <button class="primary">Enter Queue</button>
+          </div>
+          <div class="panel__grid">
+            <article class="card">
+              <h3>Queue Preferences</h3>
+              <div class="field">
+                <label>Region</label>
+                <select>
+                  <option>North America</option>
+                  <option>Europe</option>
+                  <option>APAC</option>
+                </select>
+              </div>
+              <div class="field">
+                <label>Team Size</label>
+                <div class="segmented">
+                  <button class="is-selected">1v1</button>
+                  <button>2v2</button>
+                  <button>3v3</button>
+                </div>
+              </div>
+              <div class="field">
+                <label>Queue Style</label>
+                <select>
+                  <option>Ranked</option>
+                  <option>Unranked</option>
+                  <option>Custom</option>
+                </select>
+              </div>
+              <button class="ghost full">Save Preferences</button>
+            </article>
+
+            <article class="card">
+              <h3>Queue Insights</h3>
+              <ul class="list">
+                <li>
+                  <span>Estimated Wait</span>
+                  <strong>00:45</strong>
+                </li>
+                <li>
+                  <span>Skill Range</span>
+                  <strong>Hexer II · Sage I</strong>
+                </li>
+                <li>
+                  <span>Connection Quality</span>
+                  <strong>98% Stability</strong>
+                </li>
+                <li>
+                  <span>Last Match Result</span>
+                  <strong>Victory (+32 HexRank)</strong>
+                </li>
+              </ul>
+              <button class="primary full">Join Queue</button>
+            </article>
+
+            <article class="card">
+              <h3>Queue Rules</h3>
+              <p>
+                Matchmaking pairs squads by win history and participation metrics. Leaving early applies a
+                cooldown and reduces short-term rank gain.
+              </p>
+              <div class="pill-row">
+                <span>Ranked Protection</span>
+                <span>Reconnect Window</span>
+                <span>Latency Caps</span>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <section class="panel" id="lobbies">
+          <div class="panel__header">
+            <div>
+              <h2>Lobby Control</h2>
+              <p>Create, host, and manage custom matches with advanced settings.</p>
+            </div>
+            <button class="primary">New Lobby</button>
+          </div>
+          <div class="panel__grid">
+            <article class="card">
+              <h3>Lobby Details</h3>
+              <div class="field">
+                <label>Lobby Name</label>
+                <input placeholder="Hex Gems Base — Nightfall" />
+              </div>
+              <div class="field">
+                <label>Mode</label>
+                <select>
+                  <option>Ranked Draft</option>
+                  <option>Practice</option>
+                  <option>Tournament</option>
+                </select>
+              </div>
+              <div class="field">
+                <label>Privacy</label>
+                <div class="segmented">
+                  <button class="is-selected">Public</button>
+                  <button>Private</button>
+                </div>
+              </div>
+              <button class="ghost full">Generate Invite Code</button>
+            </article>
+
+            <article class="card">
+              <h3>Lobby Roster</h3>
+              <div class="roster">
+                <div class="roster__slot is-ready">
+                  <span>NovaHex</span>
+                  <span class="status">Ready</span>
+                </div>
+                <div class="roster__slot">
+                  <span>ArdenShade</span>
+                  <span class="status">Not Ready</span>
+                </div>
+                <div class="roster__slot is-empty">
+                  <span>Open Slot</span>
+                  <span class="status">Invite</span>
+                </div>
+              </div>
+              <button class="primary full">Start Match</button>
+            </article>
+
+            <article class="card">
+              <h3>Lobby Chat</h3>
+              <div class="chat">
+                <div class="chat__message">
+                  <strong>NovaHex:</strong> Draft bans locked. Ready check in 15s.
+                </div>
+                <div class="chat__message">
+                  <strong>ArdenShade:</strong> Loading rune preset.
+                </div>
+              </div>
+              <div class="field">
+                <input placeholder="Type your message" />
+              </div>
+              <button class="ghost full">Send Message</button>
+            </article>
+          </div>
+        </section>
+
+        <section class="panel" id="account">
+          <div class="panel__header">
+            <div>
+              <h2>Account Setup</h2>
+              <p>Create a Hex Gems identity and secure your multiplayer progress.</p>
+            </div>
+          </div>
+          <div class="panel__grid">
+            <article class="card">
+              <h3>Create Account</h3>
+              <div class="field">
+                <label>Display Name</label>
+                <input placeholder="Your Hexer name" />
+              </div>
+              <div class="field">
+                <label>Email</label>
+                <input placeholder="you@example.com" type="email" />
+              </div>
+              <div class="field">
+                <label>Password</label>
+                <input type="password" placeholder="••••••••" />
+              </div>
+              <button class="primary full">Create Account</button>
+            </article>
+
+            <article class="card">
+              <h3>Secure Sessions</h3>
+              <p>
+                Authenticate across devices with verified login sessions, 2FA protection, and instant recovery.
+              </p>
+              <div class="pill-row">
+                <span>Device Vault</span>
+                <span>Session Restore</span>
+                <span>Token Sync</span>
+              </div>
+              <button class="ghost full">Manage Sessions</button>
+            </article>
+          </div>
+        </section>
+
+        <section class="panel" id="profile">
+          <div class="panel__header">
+            <div>
+              <h2>Player Profile</h2>
+              <p>Track your match history, HexRank, and seasonal performance.</p>
+            </div>
+            <button class="ghost">Edit Profile</button>
+          </div>
+          <div class="panel__grid">
+            <article class="card profile-card">
+              <div class="profile-card__header">
+                <div>
+                  <p class="hero__tag">Active Hexer</p>
+                  <h3>NovaHex</h3>
+                  <p class="muted">Region: NA East · Joined 2024</p>
+                </div>
+                <div class="rank-badge">Sage II</div>
+              </div>
+              <div class="stat-row">
+                <div>
+                  <p class="stat-label">Matches Played</p>
+                  <p class="stat-value">128</p>
+                </div>
+                <div>
+                  <p class="stat-label">Matches Won</p>
+                  <p class="stat-value">83</p>
+                </div>
+                <div>
+                  <p class="stat-label">Win Rate</p>
+                  <p class="stat-value">64.8%</p>
+                </div>
+              </div>
+              <div class="progress">
+                <div class="progress__label">
+                  <span>Progress to Sage III</span>
+                  <span>83 / 100 wins</span>
+                </div>
+                <div class="progress__bar">
+                  <div class="progress__fill" style="width: 83%"></div>
+                </div>
+              </div>
+            </article>
+
+            <article class="card">
+              <h3>Recent Matches</h3>
+              <div class="matches">
+                <div class="match is-win">
+                  <div>
+                    <strong>Ranked · 2v2</strong>
+                    <p>Victory vs. Emberline</p>
+                  </div>
+                  <span>+28 HR</span>
+                </div>
+                <div class="match is-win">
+                  <div>
+                    <strong>Ranked · 3v3</strong>
+                    <p>Victory vs. Lyric Dawn</p>
+                  </div>
+                  <span>+30 HR</span>
+                </div>
+                <div class="match is-loss">
+                  <div>
+                    <strong>Ranked · 1v1</strong>
+                    <p>Defeat vs. Verdant</p>
+                  </div>
+                  <span>-18 HR</span>
+                </div>
+              </div>
+              <button class="ghost full">View Full History</button>
+            </article>
+          </div>
+        </section>
+
+        <section class="panel" id="hexrank">
+          <div class="panel__header">
+            <div>
+              <h2>HexRank Ladder</h2>
+              <p>Climb from Caster to Oracle with wins and match participation.</p>
+            </div>
+            <button class="primary">View Leaderboard</button>
+          </div>
+          <div class="panel__grid">
+            <article class="card">
+              <h3>Rank Tiers</h3>
+              <ul class="rank-list">
+                <li><span>Caster I–III</span><strong>0–9 Wins</strong></li>
+                <li><span>Hexer I–III</span><strong>10–29 Wins</strong></li>
+                <li><span>Conjuror I–III</span><strong>30–59 Wins</strong></li>
+                <li><span>Sage I–III</span><strong>60–99 Wins</strong></li>
+                <li><span>Mystic</span><strong>100–149 Wins</strong></li>
+                <li><span>Ethereal</span><strong>150–199 Wins</strong></li>
+                <li><span>Oracle</span><strong>200+ Wins</strong></li>
+              </ul>
+            </article>
+
+            <article class="card">
+              <h3>Rank Logic</h3>
+              <p>
+                HexRank is calculated from match participation and wins. Wins determine tier while participation
+                unlocks seasonal rewards and competitive seeding.
+              </p>
+              <div class="pill-row">
+                <span>Wins Tracked</span>
+                <span>Matches Logged</span>
+                <span>Seasonal Rewards</span>
+              </div>
+            </article>
+
+            <article class="card">
+              <h3>Leaderboard Preview</h3>
+              <div class="leaderboard">
+                <div class="leaderboard__row">
+                  <span>#1 · Oracle</span>
+                  <strong>Seraphic</strong>
+                  <span>312 Wins</span>
+                </div>
+                <div class="leaderboard__row">
+                  <span>#2 · Ethereal</span>
+                  <strong>Nightfall</strong>
+                  <span>221 Wins</span>
+                </div>
+                <div class="leaderboard__row">
+                  <span>#3 · Mystic</span>
+                  <strong>RuneWeaver</strong>
+                  <span>189 Wins</span>
+                </div>
+              </div>
+              <button class="ghost full">Open Full Board</button>
+            </article>
+          </div>
+        </section>
+
+        <section class="panel" id="roadmap">
+          <div class="panel__header">
+            <div>
+              <h2>Production Roadmap</h2>
+              <p>End-to-end implementation plan for a fully operational Hex Gems Base experience.</p>
+            </div>
+            <button class="ghost">Export Plan</button>
+          </div>
+          <div class="panel__grid">
+            <article class="card">
+              <h3>1. Game Design Foundation</h3>
+              <ul class="checklist">
+                <li>Authoritative rules: turn order, win conditions, and edge cases.</li>
+                <li>Matchmaking rules for skill range, latency, and queue timeouts.</li>
+                <li>Lobby UX spec: ready checks, host controls, public/private flow.</li>
+                <li>Rank progression: matches played + wins (optional streaks).</li>
+              </ul>
+            </article>
+
+            <article class="card">
+              <h3>2. Core Architecture</h3>
+              <div class="pill-row">
+                <span>React + TypeScript</span>
+                <span>Node.js / Go</span>
+                <span>WebSockets</span>
+                <span>Postgres</span>
+                <span>Redis</span>
+                <span>JWT + Refresh</span>
+                <span>Docker + K8s</span>
+              </div>
+              <div class="stack-grid">
+                <div>
+                  <p class="stat-label">Realtime</p>
+                  <p class="stat-value">Authoritative game server + delta updates</p>
+                </div>
+                <div>
+                  <p class="stat-label">Persistence</p>
+                  <p class="stat-value">Match history, profiles, and rank tracking</p>
+                </div>
+              </div>
+            </article>
+
+            <article class="card">
+              <h3>3. Account & Profile System</h3>
+              <ul class="checklist">
+                <li>Registration + login (email/password, OAuth optional).</li>
+                <li>Profile model: username, avatar, ID, wins, matches.</li>
+                <li>Secure auth: refresh token rotation + session revocation.</li>
+              </ul>
+              <button class="ghost full">View Identity Spec</button>
+            </article>
+
+            <article class="card">
+              <h3>4. Matchmaking Pipeline</h3>
+              <ul class="checklist">
+                <li>Queue service indexed by rank, region, and party size.</li>
+                <li>Progressive widening when queues run long.</li>
+                <li>Match creation spins up a room and auto-joins players.</li>
+              </ul>
+              <div class="progress">
+                <div class="progress__label">
+                  <span>Queue Logic Coverage</span>
+                  <span>Phase 1 / 3</span>
+                </div>
+                <div class="progress__bar">
+                  <div class="progress__fill" style="width: 35%"></div>
+                </div>
+              </div>
+            </article>
+
+            <article class="card">
+              <h3>5. Lobby & Multiplayer Engine</h3>
+              <ul class="checklist">
+                <li>Lobby state flow: waiting → ready → countdown → start.</li>
+                <li>Reconnect handling + mid-match rejoin window.</li>
+                <li>Server-authoritative game simulation & validation.</li>
+                <li>Anti-cheat: limit client prediction and enforce rules.</li>
+              </ul>
+            </article>
+
+            <article class="card">
+              <h3>6. HexRank & Persistence</h3>
+              <ul class="checklist">
+                <li>Tier ladder: Caster → Oracle based on wins.</li>
+                <li>Store matches participated + wins on profile.</li>
+                <li>Post-match updates are transactional and audited.</li>
+                <li>Match history records winner, duration, and roster.</li>
+              </ul>
+            </article>
+
+            <article class="card">
+              <h3>7. QA & Launch Readiness</h3>
+              <ul class="checklist">
+                <li>Unit tests for rank logic and match validation.</li>
+                <li>Integration tests for matchmaking + lobby flow.</li>
+                <li>Load tests for concurrent matches and chat.</li>
+                <li>Observability: logs, metrics, crash alerts.</li>
+              </ul>
+              <button class="primary full">Open QA Matrix</button>
+            </article>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
