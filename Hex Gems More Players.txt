@@ -1,0 +1,20 @@
+﻿Heart Cards
+Red Heart Cards x10
+Pink Heart Cards x10
+Teal Heart Cards x10
+Gold Heart Cards x10
+
+
+Merchant+
+Perks
+1. Immunity (You are immune to Potions)
+2. Pirate (Any time you Cardburn another player’s card, you may steal it instead of discarding it)
+3. Alley Trader (You may trade with players during your turn)
+4. Inside Knowledge (You may at any time spend 2 Soul Tokens to fully reroll and restock the Merchant)
+5. Lightning Rod (If another player plays a spell with Paralysis on it, they are inflicted with the Paralysis instead)
+Items
+1. Megaflip (All other players must flip 1 Heart)
+2. Curse of the Poor (Choose another player. You may steal half of their Soul Tokens)
+3. Shady Deal (You may trade with another player)
+4. Rigged (Shuffle the deck.)
+5. Wealthy Spellcaster (For each player at the table, you may take 1 Soul Token)

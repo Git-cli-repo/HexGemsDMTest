@@ -1,0 +1,292 @@
+﻿The Brewery
+(The Brewery has 5 Shop Slots, priced at 2 ST, 3 ST, 4 ST, 5 ST, and 6 ST. 5 ST to reroll.)
+Attack Cards
+1. Reflection ( Reflect a Spell or attack back onto its sender. Then, flip 1 Heart Card. Add 3 Timekeep tokens to this card after. You may only play this card after the Cooldown is complete)
+2. Quick Search (Search for a gem card in the deck and shuffle it out. Add 2 Timekeep tokens to  this card after. You may only play this card after the Cooldown is complete.)
+3. Supersize (Your next attack will do some extra amount of Attack. Add that many Timekeep tokens to this card after. You may only play this card after the Cooldown is complete.)
+4. Speed Blaster (Flip 3 Hearts of any Target. Add 2 Timekeep tokens to this card after. You may only play this card after the Cooldown is complete.)
+5. Sacrifice (Flip all the Hearts of any Target. Flip all your Heart Cards as well. Add 5 Timekeep tokens to this card after. You may only play this card after the Cooldown is complete)
+6. Heal (Unflip 2 Heart Cards of any Ally, and remove one of their Status Effects. Add 1 Timekeep tokens to this card after. You may only play this card after the Cooldown is complete.)
+7. Dealmaker (Gain 3 Soul Tokens. You must also take 4 Paralysis Tokens. Add 3 Timekeep tokens to this card after. You may only play this card after the Cooldown is complete.)
+8. Risky Shot (Gain 6 Toxic. Your next attack does double Attack. Add 2 Timekeep tokens to this card after. You may only play this card after the Cooldown is complete.)
+9. Merciful Heal (You and all Allies may Unflip up to 5 Flipped Heart Cards. All Enemies may unflip 2 Heart Cards as well. Add 5 Timekeep tokens to this card after. You may only play this card after the Cooldown is complete.)
+10. Merchant Frequent  (Reroll the stock of The Merchant, The Bakery, or The Brewery.)
+Instant Spell Cards
+1. Cobalite Curse (This spell does 1 Attack.)
+2. Zephyrite Zap (This spell does 3 Paralysis and 2 Attack.)
+3. Lemonite Lambast (This spell does 6 Attack, but all players must discard 2 cards of choice.)
+4. Opalix Outburst (You may unflip up to 3 Flipped Heart Cards.) 
+5. Ceralite Crush (This spell does 3 Attack and 1 Paralysis)
+6. Pyrothyst Pirouette (You are invulnerable to any Enemy’s attack for 1 turn.)
+7. Noxite Knockout (You must flip all your Heart Cards. However, one Target of choice must also flip all their Heart Cards.) 
+8. All-Gem Amalgamation (All current Enemies must flip all their Heart Cards. All Players must flip all their Heart Cards until they have only 1 Unflipped Heart Card remaining.)
+The Weaponsmith
+(The Weaponsmith has 3 Shop Slots, priced at 6 ST, 7 ST, and 8ST. 5 ST to reroll.)
+Swords (note: Wounded is identical to Paralysis, except for the fact that you can still be Attacked, you can still draw on your turn, you can still shop, and you can still eat Pastries / drink Drinks. Only Swords can deal Wounded.)
+1. Radiated Sword (2 Attack, 3 Toxic. Each time you attack using this sword, you deal this sword’s Attack, as well as this sword’s Toxic. Upgrade x1: Attack +1. Upgrade x2: Toxic +3.) 
+2. Broken Sword (1 Attack, 1 Wounded. Deals this sword’s attack as well as this sword’s Wounded. Upgrade it….? Upgrade x1: Wounded +1. Upgrade x2: Wounded +1. Upgrade x3: Attack +4)
+3. Lemonite Shard Sword (5 Attack, 2 Wounded (to user). Deals this sword’s attack as well as this sword’s Wounded to the user. Upgrade x1: +1 Attack, +1 Wounded to user)
+Axes (note: Heavy means how many turns you have to wait before your attack goes through once using it. Only Axes can be Heavy.)
+1. Sunbeam Axe (1 Attack, 7 Toxic. Heavy 2. Each time you attack using this Axe, you deal this Axe’s Attack, as well as this Axe’s Toxic. This Axe cannot be upgraded.) 
+2. Flaming Axe (1 Attack, 2 Cardburn (to user). Heavy 1. Each time you attack using this Axe, you deal this Axe’s Attack, as well as this Axe’s Cardburn to yourself. Upgrade x1: Attack +1. Upgrade x2: Attack +2.)
+3. Spiffy Axe (2 Attack, 3 Toxic, 1 Paralysis. Heavy 3. Deals this Axe’s Attack, Toxic, and Paralysis. Upgrade x1: Toxic +2, Attack +1. Upgrade x2: This Axe can be used on Forgefire Upgrades to change them into any other type of Forgefire Upgrade.)
+Maces (note: Spin means how many times this Mace can successively attack. Flip the Decider Token to determine whether each successive attack after the first one succeeds or fails. Only Maces can have Spin.)
+1. Medicated Mace (2 Attack, 2 Heal. Spin 2. Deals this Mace’s Attack and the user may choose a player to Heal the amount specified by this Mace’s Heal. Upgrade x1: Heal +2. Upgrade x2: Attack +1, Spin +1.)
+2. Dusty Mace (1 Attack, 2 Paralysis. Spin 4. Deals this Mace’s Attack and Paralysis. Upgrade x1: Paralysis +2. Upgrade x2: Attack +1, Paralysis +1.)
+3. Deathbringer Mace (1 Attack, 6 Toxic. Spin 4. Deals this Mace’s Attack and Toxic. This Mace cannot be upgraded.)
+Forgefire Upgrades
+1. Sword Upgrade: Attach to a Sword to Upgrade it.
+2. Axe Upgrade: Attach to an Axe to Upgrade it. 
+3. Mace Upgrade: Attach to a Mace to Upgrade it. 
+The Armourer
+(The Armorer has 3 Shop Slots, priced at 3 ST, 4 ST, and 5 ST. 5 ST to reroll.)
+Armour (note: HC stands for Hit Capacity. Each time you get hit and are wearing an Armour, add one Hit Token to the Armour. If an Armour has as many Hit Tokens as its HC, the Armour must be discarded.)
+1. Shining Chestplate (Each attack does 1 less Attack. HC 3.)
+2. Radiant Boots (Immune to Paralysis. HC 5.)
+3. Bard’s Hat (Each attack does 2 less Attack. HC 3)
+4. Healer’s Gloves (You may unflip 1 Heart Card any time an Ally is attacked. HC 4.)
+5. Winged Chestplate (You are immune to all attacks. HC 2.)
+6. Knight Helmet (If you have a Sword, any form of attack deals 3 Wounded. HC 5.)
+7. Thorny Gloves (Each time you are attacked, the attacker must flip 2 Heart Cards. HC 3.)
+Defense Cards
+1. En Guarde (If you’re attacked, play this card, and the attack deals 2 less Attack than it normally would.)
+2. Sweep Block (Block one attack.)
+3. Throwable Cactus (Deal 2 Attack to the Enemy targeting you.) 
+4. Snowy Grave (If you’re attacked and would be required to unflip more hearts than you have, play this card, and flip all except 2 Heart Cards. Then, Flip all Heart Cards of the Enemy targeting you (except 1), and inflict 3 Paralysis on them.)
+5. Desperate Prayer (Flip the Decider Token twice. If both times it lands on Green, unflip all your heart cards.) 
+The Merchant
+(The Merchant has 5 Shop Slots, priced at 1 ST, 2 ST, 3 ST, 4 ST, and 5 ST. 5 ST to reroll.)
+Perks
+1. Gem Forger (3 different add-ons can substitute for a Wildcard Gem)
+2. Simplified Potions (a potion bottle can substitute for two add-ons of the same type)
+3. Distinguished Wizard (Every time you spend Soul Tokens, for each 3 you spend, get 1 in return)
+4. Armoury Master (HC of all Armour is doubled)
+5. Miniature Forge (any Forgefire upgrade may be used for any weapon type)
+6. Inside Trader (You may swap any card bought from the merchant with one being sold for the same price up to once per turn.)
+7. Green Gardener (discard 2 of the same card to gain 3 Soul Tokens)
+8. Dark Knight (all cooldowns on Swords are reduced by 2)
+9. Recycle Digger (any number of times per turn, shuffle the discard pile; discard 1 card to gain 1 random card from that pile, no immediate re-rolls)
+10. Lucky Roller (up to twice per turn, discard 1 random card to gain the top card of the deck)
+11. Revive (once killed, discard your hand and return to full health once)
+12. Lucky Jar (store 5 extra items that can’t be burned; may be played at any time)
+Items
+1. Poisoned Heart (acts as +1 heart. When flipped, discard this card and gain 3 Toxic)
+2. Rotten Peel (Skip one Enemy turn. You must take 2 Paralysis Tokens)
+3. Skull Chest (Flip the Decider token. If green, gain 4 Soul Tokens. If red, flip 4 Heart Cards) 
+4. Darkite (0 Attack. 0 Paralysis. 0 Cardburn. 0 Brew Time. 0 Toxic. 0 Heal. 0 Lifesteal)
+5. Darkite Plate (Block against enemy attacks.) 
+6. Dark Matter (Adds 1 Wounded to your spell)
+7. Waning Time (Take a turn in between any two Enemies’ turns, but you must take 1 Paralysis token)
+8. Expired Medicine (Save this card until all your hearts are flipped. Then, unflip 1 Heart Card and take 2 Paralysis Tokens)
+9. Cursed Dice (Discard 2 Cards. Then, draw 1 card from the Main Deck)
+10. Shattered Mirror (Block an incoming spell)
+The Bakery
+(The Bakery has 3 Shop Slots, priced at 2 ST, 3 ST, 4 ST. 5 ST to reroll.)
+Pastries
+1. Stale Bread (unflip 1 flipped Heart; next brew requires +1 Timekeep Token)
+2. Strawberry Torte (unflip 2 flipped Hearts; cannot buy from shops this turn)
+3. Rose Petal Tart (unflip 1 flipped Heart; remove 1 Timekeep Token from a brewing spell)
+4. Caramel Puff (unflip 3 flipped Hearts; skip your next draw step)
+5. Midnight Morsel (unflip 1 flipped Heart, remove 1 negative status; lose 1 Soul Token)
+6. Giant Onion (unflip 2 flipped Hearts; discard 1 card from your hand)
+7. Lemonite Shortbread (unflip 1 flipped Heart; remove 1 Timekeep Token from a brewing spell)
+8. Dragon Scale Custard (unflip 2 flipped Hearts; remove 1 Timekeep Token from a brewing spell)
+9. Zephyrite Green Tea (unflip 1 flipped Heart; remove 1 Timekeep Token from a brew; if that spell uses Paralysis, remove 1 negative status, then you become Paralyzed for 1 turn)
+10. Lucky Ringcake (unflip 1 flipped Heart; discard 1 card to draw 1 new card)
+Drinks
+1. Frozen Snow Tea (unflip 3 hearts; remove any wounded or toxic)
+2. Classic Milkshake (unflip 2 hearts)
+3. Sorbet Soup (unflip 4 hearts; draw an extra card this turn)
+4. Luminescent Smoothie (unflip 3 hearts; put 2 Timekeep tokens on this card, for that duration, you are immune to paralysis, toxic and wounded)
+5. Black Tar Coffee (unflip 5 hearts)
+6. Cave Water (unflip 1 heart)
+7. Extra-Strong Coffee (unflip 2 hearts; complete all active cooldowns)
+8. Silver-Star Milkshake (unflip 3 hearts; gain 4 ST)
+Floors
+Floors (note: Waves go in order like this: 1 Enemy, 2 Enemies, 3 Enemies, 1 Enemy, and so on for each continuing wave. After all the Waves on a Floor, players fight a Boss before they can move on to the next Floor.)
+1. Rocky Passageway (2 Waves. No special effects on this floor) 
+2. Treasure Room (0 Waves. All players gain 3 Soul Tokens)
+3. Engulfing Darkness (3 Waves. Heal has no effect on this Floor. Players cannot Shop while on this Floor)
+4. Boss Rush (3 Waves. All waves consist of 1 Enemy on this Floor. All Enemies are replaced with Bosses on this Floor)
+5. Enemy Infestation (6 Waves. All waves consist of 3 Enemies on this floor)
+6. Sunbeam Palace (4 Waves. Lifesteal has no effect on this floor)
+7. Icy Corridor (3 Waves. Players may not draw any new cards on this floor)
+8. Haunted Hallway (4 Waves. Every Heart Card you flip of an Enemy grants +2 Soul Tokens instead of +1 on this floor. You also gain 1 Soul Token for each Heart Card of yours that gets flipped on this floor)
+9. Toxic Shelter (3 Waves. All Players gain 3 Toxic at the start of every wave on this floor)
+10. Trapped Exit (2 Waves. Players cannot Shop while on this floor. Players cannot earn Soul Tokens while on this floor)
+11. The Last Stand (7 Waves. All waves consist of 2 Enemies on this floor. All Enemy Attacks do +1 attack)
+12. Static Storefront (0 Waves. Players may shop as long as they have Soul Tokens remaining or until they are ready to face the floor’s boss)
+13. Underground Ocean (4 Waves. Toxic and Paralysis have no effect on this Floor)
+14. Luminescent Gardens (3 Waves. All Paralysis or Toxic is doubled while on this floor)
+15. Silent Church (1 Wave. Whether the Pantheon is in-use or not, the Boss of this floor must be a Pantheon Member)
+16. Rebirth (3 Waves. You must discard your entire hand on entering this floor. The party must also discard one weapon and one Attack card.)
+17. Windy Cliffs (4 Waves. If you buy a card while on this floor,  you must use it within 2 turns of buying, or it gets discarded.)
+18. Honey Hive (5 Waves. All waves have 3 enemies. When spending ST, you lose an extra 1 ST for every 3 you spend)
+19. Red Desert (3 Waves. All cards in every shop stock are hidden until the card is bought, at which point it is revealed)
+20. World’s Edge (5 Waves. All shops are closed for the duration of this floor. All waves have 3 enemies. You may not draw for the duration of this floor. Cooldowns increase by 1.)
+21. Spider Grove (4 Waves. For each turn you do not take an action, flip 1 Heart Card.)
+22. Empty Workshop (2 Waves. The number of enemies in a wave is determined by the number of consecutive Greens on the Decider Token. Brewery and Weaponsmith are closed.)
+23. Construction Site (3 Waves. Every turn, flip the decider token 5 times. If it lands on Green all 5 times, flip all but 1 Heart Card and take 5 Paralysis.)
+24. Crimson Eyes (4 Waves. You may flip any number of enemy hearts, but you yourself must flip that many.) 
+25. Lonely Beachfront (2 Waves. No effect.)
+Nightmare Mode
+1. Darkness Looming (4 Waves. All enemies do double damage.)
+2. Shady Casino (3 Waves. You may at any time choose any number of ST, and then flip the decider token. If Green, you double it. If red, you lose that much ST .) 
+3. Slime Forest (4 Waves. All Slimes gain 10 HP. All other enemies gain -1 HP.) 
+4. The Depths (5 Waves. Every wave has 4 enemies, and you cannot draw cards. If you end a round with unspent ST, you flip 3 Heart Cards.)
+5. Seven Seas (All enemies gain +3 HP and do +2 Attack.)
+Threats
+Enemies (note: Enemies get the final turn in a round after players. Enemies will take turns attacking players. If Enemy 1 attacks Player 1, then Enemy 2 will target Player 2. The same situation occurs; If Enemy 1 attacks Player 1 on Turn 1, they’ll target Player 2 on Turn 2. Their attacks are decided by the Decider Token, where Green = Attack #1, and Red = Attack #2. HP = # of Heart Cards)
+1. Dweller (3 HP. #1 Snatch: Inflicts 2 Cardburn on the target. #2 Slash: Flips 2 Hearts of the target)
+2. Rolling Boulder (5 HP. #1 Flatten: Inflicts 2 Paralysis and Flips 1 Heart Card of the target. #2 Avalanche: Flips 3 Heart Cards of the target, but flips 1 of its own) 
+3. Gold Diggers (4 HP. #1 Throw Stones: All players flip 1 Heart Card.  #2 Pit Trap: Inflicts 1 Wounded to each Player. )
+4. Icy Beast (5 HP. #1 Freeze: Inflicts 2 Paralysis on the target. #2 Shiver: Inflicts 1 Wounded and Flips 1 Heart Card of the target)
+5. Termite (1 HP. #1 Infest: This enemy gains +1 HP and +1 Max HP. #2 Crawl: This enemy gains 1 Immunity Token (it is immune until it removes the token on its following turn)) 
+6. Gospeletier (8 HP. #1 Wind Song: The enemy gains 1 Immunity Token. #2 Hailstorm: All players flip 3 Heart Cards. This Enemy flips 1 Heart Card)
+7. Frozen Tears (4 HP. #1 Cry: This enemy unflips 1 Heart Card, #2 Ice Shock: The target flips 2 Heart Cards and is inflicted with 1 Paralysis)
+8. Faceless (6 HP. #1 Silent Screech: This enemy flips 2 Heart Cards, but all players are inflicted with 2 Wounded. #2 Slash: Flips 2 Hearts of the target)
+9. ??? (7 HP. #1 ???: Does nothing. #2: ???: All players flip 1 Heart Card)
+10. Dark Matter (4 HP. #1 Replace: This enemy is replaced with a random enemy from the Enemy deck and shuffled back into the Enemy deck. #2 Recruit: If there are less than three enemies active, draw a new Enemy card and enter it into battle)
+11. Shadow Lurker (5 HP. #1 Shadow Strike: Next turn, this enemy will attack twice. #2 Slash: Flips 2 Hearts of the target)
+12. The Lost One (9 HP. #1 Heal: Unflips 2 Heart Cards. #2 Empty: Does nothing)
+13. Soul (6 HP. #1 Possess: Draw a new Enemy card. This enemy cannot be attacked until that enemy has been defeated. #2 Stall: Does nothing.)
+14. Maddened Dweller (3 HP. #1 Slash: Flips 4 Hearts of the target. #2 Fatal Blow: Flips 2 Hearts of the opponent and inflicts 5 Wounded. )
+15. Living Statue (11 HP. #1 Beam: Flips 1 Heart of the Target. #2: Roundabout: Flips 1 Heart of every player)
+16. Cobalite Puppet (11 HP. #1 Beam: Flips 1 Heart of the Target. #2: Roundabout: Flips 1 Heart of every player, and adds 2 Brew Time to all spells, and increases the cooldown of every attack by 1.)
+17. Lemonite Puppet (11 HP. #1 Beam: Flips 1 Heart of the Target. #2: Roundabout: Flips 3 Hearts of every player)
+18. Zephyrite Puppet (11 HP. #1 Beam: Flips 1 Heart of the Target. #2: Roundabout: Flips 1 Heart of every player and inflicts 2 Paralysis on the Target.)
+19. Amalgam (6 HP. #1 Melt: This enemy flips 2 Hearts, and the Target flips 2 Hearts. #2 Saturate: This enemy unflips 2 Hearts, and the Target unflips 2 Hearts)
+20. Glowing Angler (7 HP. #1 Luminescence: Target must take 2 Paralysis and all other players 2 Wounded.. #2 Depths: Target must flip 2 Heart Cards)
+21. Gilded Slime (4 HP. #1 Glitter: Does absolutely nothing. #2 Squish: Target must flip 4 Hearts)
+22. Glowing Flytrap (6 HP. #1 Shine Light: All players must flip 3 Heart Cards. #2 Firey Breath: Flip the decider token. If red, The Target must discard their entire hand. )
+23. Scarecrow (9 HP. #1 Regenerate: All active Enemies or Bosses may unflip 3 Heart Cards. #2 Restore: For each active Enemy, if it has 5 or less Unflipped Heart Cards, Unflip all flipped Heart Cards)
+24. Flameguy (7 HP. #1 Charred Field: All players must discard 3 Cards of their choice. #2 Flame Wisps: Flip the decider token. If red, The Target must discard their entire hand. )
+25. Mini Rainworm (3 HP. #1: Splish: Target may unflip 1 Heart Card. #2 Splosh: Target must flip 3 Heart Cards)
+26. Slime (4 HP. #1 Dance: Does absolutely nothing. #2 Squish: Target must flip 4 Hearts)
+27. Radiated Dweller (3 HP. #1 Radiate: Inflicts 5 Toxic on the target. #2 Toxic Slash: Flips 2 Hearts of the target and inflicts 3 Toxic onto the Target)
+28. Toxic Slime (4 HP. #1 Stink: Does absolutely nothing. #2 Squish: Target must flip 4 Hearts and take 2 Toxic)
+29. Slog (7 HP. #1 Drag On: Resets the lowest cooldown of the current Target. #2 Weak Slug: The current target flips 2 Heart Cards.)
+30. Pure Darkness (12 HP. #1 Chaotic Shift: All active enemies are reshuffled into the deck and replaced with new enemies. They preserve status effects but not damage. #2 Shuffle: All status effects on this enemy are reflected onto the current target.)
+31. Flytrap (6 HP. #1 Snap Bite: The current target flips 2 Heart Cards. #2 Consume: This enemy  may unflip 2 Heart Cards.)
+32. Brick Barrier (13 HP. #1 Throw Cinder: All players flip 3 Heart Cards. The current target takes 2 Paralysis. #2 Repair Crew: This enemy heals 4 Heart Cards.)
+33. Dark Dweller (6 HP. #1 Entropy: Summons a new enemy if possible. If not, this enemy may unflip 2 Heart Cards. #2 Dark Slash: All players and enemies flip 1 Heart Card.)
+34. Worker Bee (3 HP. #1 Sting: The current target flips 1 Heart Card and gains 2 Toxic. #2 Buzz About: Does nothing.)
+35. Zephyr (5 HP. #1 Strike Down: The current target gains 6 paralysis. #2 Gentle Winds: All players take 3 Cardburn.)
+Infection Spread 
+(An Infection Spread card is drawn at the start of every wave. When a Player is infected, for each Infection token, they lose 1 Max Health. When the first infection token is applied, the player is instantly limited to 6 actions per turn. For every future infection token, that number decreases by 1, with a minimum of 1. An infection token will clear itself after 5 turns, and all its effects are reverted. It can also be cleared by eating a Pastry. Enemies can also be infected, and when an enemy is infected, it gains 1 Max Health and +1 attack per token, and these also clear naturally in 5 turns, or you can give any enemy a Pastry to disinfect quicker.)
+1. Pandemic (All active players and enemies take 1 Infection Token) 
+2. Targeted Spread (The upcoming Target takes 2 Infection Tokens) 
+3. Mini Spread (The previous target + most recently attacked Enemy take 1 Infection Token)
+4. Infect Players (All players take 1 Infection Token)
+5. Infect Enemies (All enemies take 1 Infection Token)
+Bosses
+Bosses
+1. Arachia (15 HP. (P) Web Trap: All players who did not spend at least 2ST this turn take 1 wounded. #1 Spider Bite: Target must flip 3 Hearts and take 1 Paralysis. #2 Intoxicate: Target takes 5 Toxic) 
+2. Cacton (15 HP. (P) Desert Showdown: Every turn, all players must flip 1 Heart. #1 Spiked: All players without Armor must flip 1 Heart. #2 Rodeo Show: Target Draws 2 Cards from the Main Deck, and selects 1. If the card selected is more powerful (see instruction manual), Cacton flips 5 Heart Cards. If not, the Target flips 5 Hearts.)
+3. Petalia (30 HP. (P) Flower Dance: All players who do not take an action this turn must flip 2 Hearts. #1 Bloom: Target must flip 5 Hearts. #2 Diminish: All players with less than 5ST lose all their ST).
+4. Rainworm (20 HP. (P) Rainstorm: At the start of this turn, flip the Decider Token. If red, every player but the target must take 1 Paralysis Token. #1 Dig: This boss takes 1 Paralysis Token. #2 Mega Splash: All players must flip 2 Heart Cards.)
+5. Hollow Mind (25 HP. (P) Dim Lights: Each time you attack, flip the Decider Token. If it is Green, the attack is carried out on this Boss as usual. If it is Red, the attack is carried out instead on the current Target. #1 Enrage: Add one Boss Token to this Boss. Its next Madness will flip +1 Heart. #2 Madness: Flip 2 Hearts of the Target) 
+6. Queen Vespa (20 HP. (P) Hive Mind: Each turn, flip the decider token. If Green, add 1 new Enemy into play. #1 Buzz Buzz: Summons a random Enemy. #2 Sting: Target flips 2 Hearts and takes 1 Wounded, and 2 Toxic)
+7. Rag Doll (24 HP. (P) : If this Boss is hit by an attack dealing more than 4 Attack, the attack has no effect. #1 Swing: Target flips 3 Hearts. #2 Joke About: Every player but the Target takes 1 Paralysis Token)
+8. The Wall (60 HP. (P) Brick and Mortar: At the start of each turn, flip the Decider token 3 Times. If it lands on the same side all three times, The Wall may unflip all of its Heart Cards. #1 Self-Fix: This boss may unflip 3 Heart Cards. #2 Stand Still: Does nothing.) 
+9. The Merchant (32 HP. (P) Closing Hours: You cannot buy from the Merchant or use Item Cards during this battle. #1 Reflect: All players take 1 Toxic. #2 Punch: All players flip 1 Heart Card)
+10. The Armourer (30 HP. (P) Defenseless: Your Armor has no effect during this battle. #1 Use Armour: This boss draws a random Armour Card and equips it. If an Armour is already equipped, shuffle it back into the Armoury deck. #2 Punch: Target flips 1 Heart.) 
+11. The Brewer (45 HP. (P) Uncastable: Your spells gain 3 Cooldown this turn. #1 Use Spell: If the Target has one or more Spell cards, the first Spell card is used against them. Cooldown still added. #2 Punch: Target flips 3 Hearts.)
+12. The Baker (28 HP. (P) Closing Hours: You cannot buy from the Baker or use Pastry Cards during this battle. #1 Use Pastry: This boss draws a random Pastry card and consumes it immediately. #2 Punch: Target flips 2 Hearts.)
+13. Casino Joe (40 HP. (P) Evil Grin: This boss cannot be attacked using Spells. #1 Wager: Flip Decider Token twice. If the Target correctly predicts both flips, this boss flips 10 Hearts. Otherwise, the Target flips 6 Hearts. #2 Rigged Game: All players must reset their cooldowns back to max on Spell Cards.) 
+14. Crystallized Snowform (32 HP (P) Icy Terrain: All players who do not take an action this turn must take 1 Paralysis Token. #1 Ice Shock: The Target takes 4 Paralysis Tokens. #2 Rotting Food: All Bakery Items bought longer than 2 turns ago must be discarded)
+15. Crying Angel (45 HP. (P) Team Huddle: The team must choose only 1 player to play this turn. #1 Fallen Tears: Target must take 2 Paralysis Tokens and flip 3 Heart Cards. #2 Sweeping Blow: All players must flip 3 Heart Cards) 
+Pantheon Members
+1. King Ardian (NOX, 50 HP. (P) Royal Tax: For each 5 ST you own, discard 2 ST. #1 Intoxication: The current target takes 6 Toxic. #2 Shockwave: All players must flip 2 Heart Cards.)
+2. Lemona Fairbright (LEM, 50 HP. (P) Stolen Time: All Cooldowns are increased by 2 for the duration of this boss. #1 Crushing Blow: The target flips 5 Hearts. #2 Reforge: All cooldowns are reset.)
+Sir Corvan (COB, 50 HP. (P) Knightly Duel: You may only use Weapons during this battle. #1 Light Speed: Remove all Boss Tokens from this boss. The current target flips 2 Heart Cards. #2 Power Up: Add 1 Boss Token to this boss. Its next Light Speed does +2 Attack.) 
+3. Ian Spelfair (ZEP, 50 HP. (P) Darkened Skies: Each attack you play on this boss, you must flip 1 Heart of your own. #1 Lightning Strike: The current target takes 2 Paralysis. #2 Earthquake: All players must flip 3 Heart Cards.) 
+4. Adeline Embertick (OPA, 50 HP. (P) Graceful Sweep: If this boss took no damage this turn, it may unflip 6 Hearts. #1 Disable: The current target must take 1 Paralysis token. #2 Restore: All players unflip 1 Heart each, and this boss unflips 5 Hearts.) 
+5. Captain Eamon (CER, 50 HP. (P) Eternal Flame: You may not draw new cards for the duration of this boss. #1 Torch n’ Drain: The current target must flip 3 Hearts and take 5 Cardburn. #2 Full Clear: The current player must discard their entire hand.)
+6. Aether Emberfall (PYR, 50 HP. (P)  #1 Rotten Theft: This boss Lifesteals all of the current target’s unflipped Hearts. #2 Warhead: The current target must flip 6 Hearts.)
+Nightmare Mode Bosses
+   1. Decay (50 HP. (P) Weeping Rot: All Items and Pastries must be discarded. Players must flip 1 Heart Card or take 3 Toxic. #1 Force Hand: The current target must spend all of their ST at the Bakery. For each remaining ST, the Target flips 1 Heart Card. #2 Wither: The target flips 3 Heart Cards and takes 1 Wounded.) 
+   2. The Static (45 HP. (P) Change Channel: Flip the decider token. If Green, the current floor is swapped for another random floor from the deck of floors not in the current campaign, and both floor decks are shuffled. #1 Glitch: All of the Target’s spells are swapped with random new ones. All players must also reset their cooldowns to max. #2 Volume Up: All players must flip 2 Heart Cards.) 
+   3. The Puppetmaster (60 HP. (P) Control: Only the current target may act on this boss. #1 Pull The Strings: Spawns a random Boss alongside it. #2 Make It Ring: All bosses, including itself, unflip 3 Heart Cards.)
+   4. Knight of Justice (50 HP. (P) Intimidation: You may not use Weapons and you may not heal for the duration of this battle. #1 Strike: The current target flips 5 Heart Cards. #2 Defend: This boss takes a random Armour.)
+   5. Insanity (45 HP. (P) Curse of Madness: For each attack you want to do, you must flip the Decider Token. If green, it goes through. If red, it is reflected onto you. #1 Assistance: Summons a random enemy.  #2 Buff: The next attack of every enemy will do +2 Damage.) 
+   6. The Prisoner (50 HP. (P) Caged Beast: You cannot attack this boss while there are other enemies currently active.  #1 Hire Goon: Summon a random Enemy. #2 Slugger: The target flips 2 Hearts and takes 1 Paralysis.) 
+   7. Mirrormynx (55 HP. (P) Bounce Beam: Any status effect applied to this boss must be applied to the current target as well. #1 Repair: This boss heals 3 Hearts. #2 Harden: All players flip 2 Heart Cards.)
+   8. The Dungeon-Keeper (60 HP. (P) Fragile: Your Attacks and Weapons now have HC 5. For each use, put a Hit Token on it. Discard when it reaches Hit Tokens equal to its Hit Capacity. #1 Ritual: The target’s hand must be discarded. #2 Divinity: The current target is eliminated.)
+Difficulty Modes
+Baby:
+1)  Shop slots refresh as usual
+2) Boss deck does not include Pantheon
+3) Players start with 10 Heart Cards
+4) No Infection
+5) Players can collect 2 ST/Heart they flip
+6) Enemy count / wave is 1 Enemies, 2 Enemies, 
+7) Only 5 floors per campaign 
+8) All enemies have 2 less HP
+9) All enemies deal 1 less Damage 
+10) Players can see all remaining bosses and floors.
+
+
+Standard: 
+1) Shop slots refresh before the first wave of every floor 
+2) Boss deck does not include Pantheon
+3) Players start with 10 Heart Cards
+4) No Infection
+5) Players can collect 1 ST/Heart they flip
+6) Enemy count / wave is 1 Enemies, 2 Enemies, 3 Enemies
+7) Players can see the upcoming (next) boss + floor. 
+
+
+Tough:
+1) Shop slots refresh before the first wave of every floor
+2) Boss deck does not include Pantheon
+3) Players start with 8 Heart Cards
+4) No Infection
+5) Players can collect 1 ST/Heart they flip
+6) Enemy count per wave is now 2 Enemies, 3 Enemies
+7) Players can see the upcoming floor. 
+
+
+Extreme:
+1) Shop slots refresh before the first wave of every floor 
+2) Boss deck includes the Pantheon
+3) Players start with 6 Heart Cards
+4) Infection rules apply
+5) Players can collect 1 ST/Heart they flip
+6) All floors have an extra wave
+7) Enemy count / Wave is now 2 Enemies, 3 Enemies, 4 Enemies
+8) Players cannot see any upcoming bosses or floors. 
+
+
+Nightmare: 
+1) Shop slots refresh once per floor, at a time of your choosing
+2) Boss deck includes Pantheon and Nightmare bosses
+3) Players start with 5 Heart Cards
+4) No Infection
+5) Players collect 1 ST/Heart they flip
+6) All floors have an extra wave
+7) Enemy count / Wave is now 2 Enemies, 3 Enemies, 4 Enemies
+8) Floor Deck includes Nightmare floors
+9) 15 Floors per campaign
+10) Players cannot see any upcoming bosses or floors. 
+Modes and Variants
+Blood Moon
+   1. At any time, you can deal any amount of damage to any enemy but you also take that much damage.
+A Dark Presence
+   1. Boss deck now includes Nightmare bosses. 
+Greedpocalypse
+   1. ST gain is doubled, but if you aren't able to spend or choose not to, you die instantly and cannot be revived. You may still be allowed to have unspent ST, you just have to do at least one buy every turn.
+Predestined Fate
+   1. Players all start with 1 random perk, 2 random items, 1 random Attack Card, 2 random Armours, 2 random pastries, 1 weapon of choice, 5 cards, and then gain no ST, cannot draw, and cannot shop.
+The Gates of Hell 
+   1. Play on Nightmare Mode only. All enemies and bosses do +1 damage. You cannot use status effects against bosses. Enemies grant -1 ST on death. 
+Dual Paths
+   1. 2 campaigns run simultaneously. Players, after a floor, will be presented with two choices, and players can select either. Independent waves run on each floor. If one floor finishes before the other, remaining players are dropped into the still-incomplete floor.
+Brisk Dive
+   1. Instead of 10 floors, runs are now 6 floors. 
+Darkest Plunge
+   1. All available cards in any given shop stock are hidden until bought. 
+A Deeper Descent
+   1. The first 5 bosses of the campaign must be from the Standard Boss Deck. The next 5 must be from a combined Pantheon / Nightmare Bosses deck. 
+Greedpocalypse+
+   1. ST gain is doubled, but if you aren't able to spend or choose not to, you die instantly and cannot be revived. Each floor, you may only choose one shop that will be open for the duration of that floor. For each 3 ST you own, 1 ST is removed at the end of each round.

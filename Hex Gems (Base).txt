@@ -1,0 +1,81 @@
+﻿Add-On Cards
+1. Potion Bottle (non-merchant item; brew any number of same-type add-ons, brew time = number of add-ons)
+2. Berry (Adds 1 Attack)
+3. Cyanide (Adds 1 Paralysis)
+4. Dragon's Foot (Adds 1 Cardburn)
+5. Frog Eye (Removes 1 Brew Time)
+6. Blue Thorn (Adds 1 Lifesteal)
+7. Bat's Heart (Adds 1 Heal)
+8. Snake Venom (Adds 1 Toxic)
+Plate Cards
+1. Ceralite Plate
+2. Cobalite Plate
+3. Lemonite Plate
+4. Zephyrite Plate
+5. Pyrothyst Plate
+6. Opalix Plate
+7. Noxite Plate
+Gem Cards
+(Attack, Brew Time, Lifesteal, Heal, Toxic, Cardburn, Paralysis — limited to 4 total attributes per gem)
+
+
+1. Lemonite (3, 4, 0, 0, 0, 0, 0)
+2. Cobalite (1, -1, 0, 0, 0, 0, 0)
+3. Ceralite (2, 2, 0, 0, 0, 2, 0)
+4. Zephyrite (2, 2, 0, 0, 0, 0, 2)
+5. Pyrothyst (1, 3, 3, 0, 0, 0, 0)
+6. Opalix (1, 3, 0, 3, 0, 0, 0)
+7. Noxite (0, 1, 0, 0, 4, 0, 0)
+Buff Cards
+1. Vampire (Gain Lifesteal equal to Attack)
+2. Combo (Halve all stats (not Brew Time), hit 2 players)
+3. Taxation (Steal Soul Tokens equal to spell’s Attack)
+4. Regenerate (Heal equal to Brew Time)
+5. Shroud (Ignores all Plates)
+6. Instant Cast (Ignore Brew Time)
+7. Pirate (Cardburn becomes Card-Steal)
+8. Overclocker (Discard hand to double Attack)
+9. Echo Chamber (Add Soul Token per Brew Time)
+10. Snake Charmer (Immune to spells with matching gems while brewing)
+Merchant
+Perk
+1. Gem Alchemist (4 same Add-Ons = Wildcard Gem)
+2. Easy Potions        (2 different Add-Ons = Potion Bottle)
+3. Potion Master (Flip coin after potion; may keep bottle)
+4. Filthy Rich (Add 2 Soul Tokens per turn)
+5. Double Draw  (Draw 2 cards per turn)
+6. Gem Reconstructor         (2 same Plates = 1 Gem)
+7. Plate Constructor (1 Gem = 1 Plate)
+8. Recycling Machine        (Discard 2 same cards for 5 Soul Tokens (max 2x/turn))
+9. Hush Hush (Keep drawn cards hidden)
+10. Inheritance (Claim non-heart cards/Soul Tokens from dead players)
+11. Portable Cauldron (Extra brew slot)
+12. Trash Scavenger (Discard 1 to draw random from discard; repeatable)
+13. Trader  (1 random card each turn to draw 1)
+14. Necromancer (Unflip 1 heart per turn)
+15. Extra Life (Revive fully once, discard hand)
+16. Buff Lord (Use up to 2 buffs per spell)
+17. Grand Larcenist (Steal a random card instead of drawing)
+18. Reseller (Pay 5 Soul Tokens to choose a Merchant card)
+19. Lucky Jar (Holds 5 cards, safe from Cardburn. Playable anytime.)
+Item
+1. Black Heart (acts as +1 heart. Goes away when flipped—possibly cursed?)
+2. Banana Peel (play this on a player to skip their turn; must be used during their turn, before any actions)
+3. Treasure Chest (gain +5 Soul Tokens)
+4. Favour (another player must give you a card of your choice)
+5. Wildcard Gem (acts as any gem)
+6. Wildcard Plate (acts as any plate; can be activated at any time)
+7. Wildcard Add-on (counts as 2 of the same add-ons of your choice, doesn’t count towards add-on limits)
+8. Borrowed Time (take an extra turn but flip 1 Heart; can be played any time)
+9. Pocket Mirror (reflect a single spell targeting you, discarding 4 cards to do so)
+10. Emergency Medicine (if you would be eliminated, unflip 2 Hearts and return to play)
+11. Phoenix Ash (if overkilled by 2+ Hearts, instantly unflip all Hearts)
+12. Grave Digger (when a player dies, play this to claim all their flipped Hearts as part of your max capacity)
+13. Healer (play on any player at any time; they may unflip 2 Hearts—works on newly dead players too)
+14. Dice Game (discard a random card to gain the top card from the deck)
+15. Electric Shock (force a paralyzed player to flip 2 Hearts)
+16. Burnt Money (choose a player; they lose half their Soul Tokens)
+17. Immunity (ends any effect currently targeting you)
+18. Time Management (for every spell you’ve cast, remove 1 Timekeep Token from a brewing spell)
+19. Devil Deal (all players may remove Timekeep Tokens from a brewing spell, flipping 1 Heart for each token removed)
+20. Duplicator (Acts as any Gem, Plate, Buff, or Add-On)

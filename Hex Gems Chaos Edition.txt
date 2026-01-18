@@ -1,0 +1,34 @@
+﻿Rule Changes
+1. Formal alliances are allowed
+2. Players can do 3 Effect Actions per turn. This includes: Reducing Brew Time of Brewing spells, Removing 1 Toxic, Taking 1 Soul Token and removing 1 Paralysis. All other actions are still unlimited
+3. You can put Plate Add-Ons onto a plate
+4. Players start with 1 random Perk
+5. Rest of rules remain the same
+Event Cards
+1. Devil’s Accomplice (during this event, any players may take as many Soul Tokens as they want. In turn, for each 2 Soul Tokens they take, they must flip 1 Heart Card)
+2. Discount Day (reroll Merchant prices; prices are halved for the rest of the round)
+3. Truce (no spells may be cast until this event ends)
+4. Surprise Auction (reveal top 3 cards from Merchant deck; players bid Soul Tokens. Winner picks 1, others are reshuffled into the Merchant deck)
+5. Soul Surge (every Heart you take grants +2 Soul Tokens instead of +1 this round)
+6. Eyes Closed (for the duration of this even
+7. Acid Rain (all players must take 3 Toxic at the start of their turn for the duration of this event)
+8. Wildfire (players may not draw cards this round)
+9. Free Taxes (the player with the least soul tokens may choose an amount of Soul Tokens to steal from all other players) 
+Main Deck+
+1. Darkite (0 stat gem) 
+2. Darkite Plate (blocks Darkite) 
+3. Dark Matter (adds +1 Attack, Toxic, and Paralysis but also +1 Brew Time)
+4. Paralysis Plate (blocks all spells containing paralysis)
+5. Cardburn Plate (blocks all spells containing cardburn)
+6. Lifesteal Plate (blocks all spells containing lifesteal)
+7. Heal Plate (blocks all spells containing heal)
+8. Toxic Plate (blocks all spells containing toxic) 
+9. Treasure Chest (instantly gain 3 Soul Tokens)
+10. Witch’s Little Helper (make another player your ally until the current event ends)
+Merchant+
+Items
+1. Time Machine (allows you to get back any full spell from the discard pile) 
+2. Neutral Grounds (if an event is in play, nullify its effects)
+3. Timeless (add-on for plates. Adds +1 to this plate’s duration)
+4. Thorns (add-on for plates. If players attack you while this plate is up, no matter the gem, they take 2 Hearts of recoil) 
+5. Hidden (add-on for plates. This plate may remain hidden)

@@ -1,0 +1,36 @@
+﻿In Hex Gems, there are 2 Card Decks that will constantly be in play. The Main Deck, the Merchant Deck. Each of these decks contains cards important to understand while playing Hex Gems.  
+
+
+
+At the start of the game, players are given 10 Heart Cards of one color of their choice. The color itself isn't all too important, though. The main goal of the game is to both protect your own heart cards from being flipped and to flip the heart cards of all the other players. Essentially, your goal is to be the last one standing, which basically means the last one with hearts still unflipped. The game uses the terminology "flipped" and "unflipped" to refer to the current state of any specific heart card(s), where flipped means the heart card has been literally physically flipped over, and unflipped meaning it has either not been flipped, or has been flipped, and then unflipped, as well as "flip" and "unflip" referring to the action of changing the state for some heart card(s). Each time you flip 1 heart of another player, you get one Soul Token, which is the main currency of the game. For example, flipping all 10 Heart Cards of another player would net you 10 Soul Tokens. 
+
+
+
+Let's start with the Main Deck. I won't list every card included here, rather, I'll explain the important parts about each card type and the important mechanics they add / bring to the game. In the main deck, there are 4 card types. These are: Gem Cards, Add-On Cards, Plate Cards, and Buff Cards. All of these cards are relevant to Spells and Spell Brewing. Each Player starts the game by drawing 3 cards from the Main Deck. For each turn after that, you must end your turn by drawing a card. This is not an optional action. This automatically passes the turn on to the next player. This deck must be well shuffled as to avoid clumps of certain card types as well as specific cards. 
+
+
+
+Gem Cards are the main components of spells. There are 7 total Gem Cards in Hex Gems. These cards can be randomly drawn from the deck by the player. During their turn, if a player has 2 Gem Cards, they can combine those two cards to begin brewing a spell. After that, the player must check the Brew Time attribute listed on the cards, and add the values of the two together. This is the spell's final Brew Time. The player must stack these two cards on top of eachother and place as many Timekeep Tokens as stated by the brew time. If the Brew Time is n, you put n Timekeep Tokens on the spell. After a spell is brewed, each turn after that, you must remove 1 Timekeep Token from a spell. On the turn where the last Timekeep Token is removed, you may cast the spell on any player of their choice. You may only have up to 2 Spells brewing at one time unless stated otherwise. 
+
+
+
+There are a total of 7 unique Attributes in Hex Gems:
+1) Brew Time: Represents how may turns a spell will take to brew. 
+2) Attack: Represents how many of the targeted player's Heart Cards the spell will flip. 
+3) Paralysis: Represents how many turns the targeted player must skip. They will take that number of Paralysis Tokens, and for each turn that they would normally play, they must now do nothing but remove one Paralysis Token. This includes not drawing any cards, not advancing any spells, or not playing any cards. However, they may still play certain Item Cards. On the turn following the turn where the last Paralysis Token is removed, they would return to play. While you are paralyzed, you may not be hit with spells (or Potions)
+4) Cardburn: Represents how many cards the targeted player would lose. They would shuffle their cards, flip them face-down, and the attacking player may choose that many cards to discard. 
+5) Lifesteal: For each Lifesteal on the spell, the attacking player may temporarily one flipped Heart Card from the targeted player. If the targeted player has no more flipped Heart Cards, then no more Lifesteal is done to the player. Lifesteal is played after Attack. The attacking player will take the Heart Card as an unflipped Heart Card, and return once they have it flipped as a flipped Heart Card.
+6) Heal: For each Heal on the spell, the attacking player may unflip 1 flipped Heart Card. This only applies to any already flipped Heart Cards and does nothing if the attacking player has no flipped Heart Cards.  
+7) Toxic: The targeted player must take that many Toxic Tokens. They may remove one each turn. While a player has Toxic Tokens, any additional spells that are casted on them flip that many additional hearts. After all the Toxic Tokens are removed, that player is no longer affected by Toxic.  
+
+
+
+Add-On cards and Buff Cards are supplementary to Gem Cards. In any one spell, you may add up to 3 Add-On cards and up to 1 Buff Card. Add-On cards essentially boost one specific attribute of your spell. There is one for each attribute. Buff Cards act as modifiers, sort of like stronger Add-Ons. They add special powers or effects to your spell, such as (but not limited to) being able to be cast during any player's turn, or gaining more of a specific attribute based on another attribute. There is also a card called the Potion Bottle. This card allows you to add as many of the same Add-On card as you want to it. It will brew for as many turns as Add-On cards in the potion, and also takes up 1 Brew Slot. You may then cast it. You may not make a potion using Frog Eyes, as they remove one Brew Time from spells, and do not have any effects that affect the player if used alone. However, you may use them like you would use them on a spell, but you can put as many as you want on a potion. They will do the same thing- remove one Brew Time from your potion. 
+
+
+
+Plate Cards have a fairly simple effect: they protect you from any spells containing the gem it matches. Each Gem Card has a matching Plate Card. On your turn, you may raise a plate by shifting it up slightly, and putting 2 Timekeep Tokens on it. While it has Timekeep Tokens on it, the plate is raised. Each turn, you remove 1 Timekeep Token, and on the turn you remove the last one, you discard the Plate Card. 
+
+
+
+Then, there's the Merchant Deck. The Merchant's stock will always have random items listed for 1, 2, 3, 5, and 6 Soul Tokens. There are set slots for each of these, and when bought, a new card is drawn to replace it. There are two types of cards in the Merchant Deck: Item Cards and Perk Cards. Item Cards are simple one-use cards that you may play on your turn. These cards have a wide variety of effects, including allowing you to steal cards from players, reflect spells, get a temporary Heart Card, and much more. Perk Cards are similar to Item Cards but also very different. The effect of these cards are permanent, and either passive, meaning something will continuously occur, or more commonly, active, giving you a new action you can do every turn. There is only one of each Perk, and players may have up to 3 Perk Cards active at one time. You may own more than that, but only have up to three active at one time. You may switch out Perks during your turn.
